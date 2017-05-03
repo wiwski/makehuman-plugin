@@ -1,1 +1,0 @@
-# makehuman-plugin
